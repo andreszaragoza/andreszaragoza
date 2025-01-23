@@ -29,7 +29,8 @@
 <br>
 
 
-Desarrollador en transición a Data Scientist, apasionado y con experiencia en HTML, CSS, JavaScript, Angular, he completado varios proyectos independientes, incluyendo diseño de páginas web y creación de videojuegos con Pygame, con una base sólida en ingeniería industrial, aporto una perspectiva única y habilidades de resolución de problemas a mis proyectos de programación. Actualmente, estoy cursando un certificado en Data Science para fortalecer mis conocimientos y explorar nuevas oportunidades en el análisis y la ciencia de datos.
+Desarrollador en transición a Data Scientist, apasionado por la tecnología y la resolución de problemas.
+Con experiencia en HTML, CSS, JavaScript, Angular y proyectos como diseño web y videojuegos con Pygame, combino mi formación en ingeniería industrial con habilidades analíticas para crear soluciones innovadoras. Actualmente, curso un certificado en Data Science para expandir mis conocimientos y explorar nuevas oportunidades en análisis y ciencia de datos
 - Pueden contactarme por [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) 🏆.
 <br>
 
