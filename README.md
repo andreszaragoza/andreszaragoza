@@ -28,7 +28,7 @@
 
 <br>
 
-Desarrollador en transición a Data Scientist, apasionado por la tecnología y el análisis de datos. Con experiencia en front-end y análisis de datos, combino mi formación en ingeniería industrial para aportar soluciones basadas en datos. Actualmente, curso un certificado en Data Science para profundizar mis conocimientos y explorar nuevas oportunidades en análisis y ciencia de datos.
+Desarrollador en transición a Data Scientist, apasionado por la tecnología y el procesamiento de información. Con experiencia en front-end y exploración de datos, combino mi formación en ingeniería industrial para generar soluciones basadas en datos. Actualmente, curso un certificado en Data Science para ampliar mis conocimientos y descubrir nuevas oportunidades en el ámbito de la ciencia de datos y la inteligencia artificial.
 - Pueden contactarme por [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) 🏆.
 <br>
 
