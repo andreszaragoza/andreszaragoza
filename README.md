@@ -28,7 +28,7 @@
 
 <br>
 
-Soy Data Analyst con formación en Ingeniería Industrial, especializado en transformar datos en información estratégica para la toma de decisiones. Mi experiencia abarca desde la exploración y visualización de datos hasta la generación de reportes y el desarrollo de soluciones que optimizan procesos empresariales. Mi conocimiento en front-end me permite comunicar resultados de manera clara y efectiva. Me apasiona el aprendizaje continuo y recientemente he obtenido un certificado en Data Science, lo que me impulsa a seguir creciendo en el ámbito de la analítica de datos y la inteligencia artificial.
+Data Analyst con formación en Ingeniería Industrial y experiencia en exploración, visualización y análisis de datos para la toma de decisiones estratégicas. Capacidad demostrada para transformar grandes volúmenes de información en insights accionables, optimizando procesos y generando valor en entornos empresariales. El conocimiento en desarrollo front-end facilita la presentación clara y efectiva de resultados a equipos multidisciplinarios. Certificación reciente en Data Science, con enfoque en el aprendizaje continuo y la aplicación de soluciones innovadoras en analítica de datos e inteligencia artificial.
 - Pueden contactarme por [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) 🏆.
 <br>
 
