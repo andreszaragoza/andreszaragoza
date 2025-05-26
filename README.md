@@ -27,8 +27,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
+Analista de Datos con formación en Ingeniería Industrial y sólida experiencia en exploración, visualización y análisis de datos enfocados en la toma de decisiones estratégicas. Habilidad probada para convertir grandes volúmenes de información en insights accionables, impulsando la optimización de procesos y la generación de valor en entornos empresariales.
 
-Data Analyst con formación en Ingeniería Industrial y experiencia en exploración, visualización y análisis de datos para la toma de decisiones estratégicas. Capacidad demostrada para transformar grandes volúmenes de información en insights accionables, optimizando procesos y generando valor en entornos empresariales. El conocimiento en desarrollo front-end facilita la presentación clara y efectiva de resultados a equipos multidisciplinarios. Certificación reciente en Data Science, con enfoque en el aprendizaje continuo y la aplicación de soluciones innovadoras en analítica de datos e inteligencia artificial.
+Gracias a mis conocimientos en desarrollo front-end, presento resultados de manera clara, visual y efectiva ante equipos multidisciplinarios. Recientemente obtuve una certificación en Data Science, reafirmando mi compromiso con el aprendizaje continuo y la aplicación de soluciones innovadoras en analítica de datos e inteligencia artificial.
 - Pueden contactarme por [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) 🏆.
 <br>
 
@@ -41,6 +42,47 @@ Data Analyst con formación en Ingeniería Industrial y experiencia en exploraci
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?logo=mongodb)
+![DAX](https://img.shields.io/badge/-DAX-000?logo=powerbi)
+
+
+
+
+### Visualización:
+&emsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?logo=seaborn)
+
+
+
+
+### Análisis de Datos:
+&emsp;
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![polars](https://img.shields.io/badge/-Polars-000?logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
+![SQLite](https://img.shields.io/badge/-sqlite3-000?logo=sqlite)
+
+
+
+### Machine Learning:
+&emsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-000?logo=python)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-000?logo=python)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-000?logo=python)
+
+
+
+### Webscraping:
+&emsp;
+![Requests](https://img.shields.io/badge/-Requests-000?logo=python)
+![httpx](https://img.shields.io/badge/-httpx-000?logo=python)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-000?logo=python)
+![Selenium](https://img.shields.io/badge/-Selenium-000?logo=selenium)
+
+
 
 
 ### Frontend Developer:
@@ -73,8 +115,11 @@ Data Analyst con formación en Ingeniería Industrial y experiencia en exploraci
 
 ### Databases:
 &emsp;
-![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
-
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?logo=database)
 
 
 
