@@ -19,7 +19,7 @@
 
 
 
-Soy **Andrés Zaragoza**, Analista de Datos con formación en Ingeniería Industrial y una fuerte orientación hacia el mundo tecnológico.  
+Analista de Datos con formación en Ingeniería Industrial y una fuerte orientación hacia el mundo tecnológico.  
 Me apasiona entender los datos, descubrir patrones y transformarlos en soluciones reales que generen impacto en los negocios.
 
 ---
