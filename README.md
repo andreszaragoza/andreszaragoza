@@ -17,7 +17,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-### 🎯 ¿Quién soy?
+
 
 Soy **Andrés Zaragoza**, Analista de Datos con formación en Ingeniería Industrial y una fuerte orientación hacia el mundo tecnológico.  
 Me apasiona entender los datos, descubrir patrones y transformarlos en soluciones reales que generen impacto en los negocios.
