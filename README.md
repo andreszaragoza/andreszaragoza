@@ -15,7 +15,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Analista de datos</h2></summary>
+    <summary><h2 style="display: inline-block">### 📊 Analista de Datos | Enfocado en tecnología y soluciones basadas en datos</h2></summary>
   </ul>
 </div>
 
@@ -26,10 +26,29 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
-Analista de Datos con formación en Ingeniería Industrial y sólida experiencia en exploración, visualización y análisis de datos enfocados en la toma de decisiones estratégicas. Habilidad probada para convertir grandes volúmenes de información en insights accionables, impulsando la optimización de procesos y la generación de valor en entornos empresariales.
+<br> 
+### 🎯 ¿Quién soy?
 
-Gracias a mis conocimientos en desarrollo front-end, presento resultados de manera clara, visual y efectiva ante equipos multidisciplinarios. Recientemente obtuve una certificación en Data Science, reafirmando mi compromiso con el aprendizaje continuo y la aplicación de soluciones innovadoras en analítica de datos e inteligencia artificial.
+Soy **Andrés Zaragoza**, Analista de Datos con formación en Ingeniería Industrial y una fuerte orientación hacia el mundo tecnológico.  
+Me apasiona entender los datos, descubrir patrones y transformarlos en soluciones reales que generen impacto en los negocios.
+
+---
+
+### 💡 ¿Qué hago?
+
+- Trabajo con grandes volúmenes de información, explorando, visualizando y analizando datos para facilitar la toma de decisiones estratégicas.
+- Convierto datos en **insights accionables**, optimizando procesos y mejorando la eficiencia operativa.
+- Me enfoco en crear soluciones útiles, visuales y entendibles, integrando técnicas de **frontend** cuando es necesario.
+
+---
+
+### 🧠 Mi enfoque
+
+- Combino habilidades analíticas y técnicas para desarrollar soluciones prácticas en entornos multidisciplinarios.
+- Recientemente obtuve una **certificación en Data Science**, donde profundicé en Machine Learning, análisis estadístico y automatización.
+- Siempre busco formas innovadoras de aplicar los datos a problemas reales del entorno empresarial.
+
+
 - Pueden contactarme por [LinkedIn](https://www.linkedin.com/in/andres-miguel-zaragoza-quintero-bb869a123/) 🏆.
 <br>
 
