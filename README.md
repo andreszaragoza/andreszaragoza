@@ -28,7 +28,7 @@ Me apasiona entender los datos, descubrir patrones y transformarlos en solucione
 
 - Trabajo con grandes volúmenes de información, explorando, visualizando y analizando datos para facilitar la toma de decisiones estratégicas.
 - Convierto datos en **insights accionables**, optimizando procesos y mejorando la eficiencia operativa.
-- Me enfoco en crear soluciones útiles, visuales y entendibles, integrando técnicas de **frontend** cuando es necesario.
+- Mi obejtivo es crear soluciones útiles, visuales y entendibles, integrando técnicas de **frontend** cuando es necesario.
 
 ---
 
