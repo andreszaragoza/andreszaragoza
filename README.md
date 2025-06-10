@@ -8,7 +8,7 @@
 
 <!--h2 without bottom border-->
 <div align="center">
-  <h2>📊 Analista de Datos | Enfocado en tecnología y soluciones basadas en datos</h2>
+  <h2>📊 Analista de Datos</h2>
 </div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Acerca de mí
@@ -19,8 +19,7 @@
 
 
 
-Analista de Datos con formación en Ingeniería Industrial y una fuerte orientación hacia el mundo tecnológico.  
-Me apasiona entender los datos, descubrir patrones y transformarlos en soluciones reales que generen impacto en los negocios.
+Analista de Datos especializado en big data y procesamiento de datos, con una sólida formación en ingeniería que fundamenta mi enfoque para transformar conjuntos de datos complejos en insights accionables para decisiones empresariales informadas.
 
 ---
 
