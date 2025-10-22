@@ -170,8 +170,8 @@ Mi objetivo es crear soluciones útiles, visuales y entendibles, integrando téc
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Productividad-vs-Social-Media)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Campa-a_Ctr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=Productividad-vs-Social-Media&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Productividad-vs-Social-Media)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=Campa-a_Ctr&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Campa-a_Ctr)
 
 </div>
 
