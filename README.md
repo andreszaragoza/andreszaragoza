@@ -170,20 +170,8 @@ Mi objetivo es crear soluciones útiles, visuales y entendibles, integrando téc
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/tu-proyecto-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/tu-proyecto-2)
-
-</div>
-
-> 💡 **Nota:** Reemplaza "tu-proyecto-1" y "tu-proyecto-2" con los nombres de tus repositorios más importantes
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreszaragoza&theme=tokyo-night&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-1&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Productividad-vs-Social-Media)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreszaragoza&repo=tu-proyecto-2&theme=tokyonight&hide_border=true)](https://github.com/andreszaragoza/Campa-a_Ctr)
 
 </div>
 
