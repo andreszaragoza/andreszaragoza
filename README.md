@@ -27,7 +27,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-Analista de Datos especializado en **big data** y **procesamiento de datos**, con una sólida formación en ingeniería que fundamenta mi enfoque para transformar conjuntos de datos complejos en **insights accionables** para decisiones empresariales informadas.
+Analista de Datos Junior con formación en ingeniería y certificación en Data Science. Disfruto trabajar con datos, visualizarlos y encontrar información valiosa que facilite la toma de decisiones
 
 <br>
 
